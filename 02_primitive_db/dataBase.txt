@@ -1,0 +1,6 @@
+{"name":"Kat","gender":"Other","age":19}
+{"name":"Jim","gender":"Male","age":108}
+{"name":"Maks","gender":"Male","age":31}
+{"name":"Olha","gender":"Female","age":27}
+{"name":"Kent","gender":"Male","age":37}
+{"name":"Jack","gender":"Male","age":21}{"name":"Sam","gender":"Male","age":21}

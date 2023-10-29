@@ -1,0 +1,26 @@
+{
+  "name": "02_primitive_db",
+  "version": "1.0.0",
+  "description": "database",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksymenkoMaksym/serverless-academy.git"
+  },
+  "keywords": [
+    "db"
+  ],
+  "author": "Maksym Maksymenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksymenkoMaksym/serverless-academy/issues"
+  },
+  "homepage": "https://github.com/MaksymenkoMaksym/serverless-academy#readme",
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  }
+}
