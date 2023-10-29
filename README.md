@@ -1,2 +1,3 @@
 # serverless-academy
-Serverless Academy learning cource
+
+Serverless Academy learning course
