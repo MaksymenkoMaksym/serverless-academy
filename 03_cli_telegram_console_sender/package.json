@@ -1,0 +1,27 @@
+{
+  "name": "03_cli_telegram_console_sender",
+  "version": "1.0.0",
+  "description": "cli_telegram_console_sender",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksymenkoMaksym/serverless-academy.git"
+  },
+  "keywords": [
+    "db"
+  ],
+  "author": "Maksym Maksymenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksymenkoMaksym/serverless-academy/issues"
+  },
+  "homepage": "https://github.com/MaksymenkoMaksym/serverless-academy#readme",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
