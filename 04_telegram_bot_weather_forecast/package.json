@@ -1,0 +1,24 @@
+{
+  "name": "04_telegram_bot_weather_forecast",
+  "version": "1.0.0",
+  "description": "bot that will give the user the weather forecast for a particular city",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksymenkoMaksym/serverless-academy.git"
+  },
+  "author": "Maksym Maksymenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksymenkoMaksym/serverless-academy/issues"
+  },
+  "homepage": "https://github.com/MaksymenkoMaksym/serverless-academy#readme",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
