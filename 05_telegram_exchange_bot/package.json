@@ -1,0 +1,25 @@
+{
+  "name": "05_telegram_exchange_bot",
+  "version": "1.0.0",
+  "description": "Bot will allow you to find out the USD and EUR exchange rates",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksymenkoMaksym/serverless-academy.git"
+  },
+  "author": "Maksym Maksymenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksymenkoMaksym/serverless-academy/issues"
+  },
+  "homepage": "https://github.com/MaksymenkoMaksym/serverless-academy#readme",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "node-cache": "^5.1.2",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
